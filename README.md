@@ -1,4 +1,4 @@
-[![Bash](https://img.shields.io/github/license/ctrlaltdev/isFileUsed.svg?style=for-the-badge)](https:github.com/ctrlaltdev/isFileUsed/blob/master/LICENCE.md)
+[![Bash](https://img.shields.io/github/license/ctrlaltdev/isFileUsed.svg?style=for-the-badge)](https:github.com/ctrlaltdev/isFileUsed/blob/master/LICENSE)
 ![Bash](https://img.shields.io/badge/_-SH-4EAA25.svg?style=for-the-badge)
 
 Will check if a file is used by others given a specific scope
